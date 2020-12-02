@@ -1,0 +1,8 @@
+파이썬의 다양한 활용의 예
+실제 사용중인 코드들
+
+Auto Install APK by Python
+https://www.youtube.com/watch?v=zTQpI-AgLdg
+
+Appium Test - VM
+https://www.youtube.com/watch?v=NENdPhjDMlY

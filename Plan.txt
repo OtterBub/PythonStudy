@@ -1,0 +1,50 @@
+0. Appium + Python Semina
+Appium 환경 셋팅을 해서
+아주 기초적인 One Client To Appium Server로
+api-demo.apk 파일의 테스트 코드 완성하는 것
+
+일주일 하루 한시간 반 ~ 두 시간 반 정도
+
+총 3시간 ~ 5시간 정도 예상중
+
+Sample 완료 
+시간 분량 조절중 준비 후 재공지
+
+1. Python Basic
+세미나를 한 이후
+print() 부터 시작하여
+아주아주 기초적인 파이썬 사용법에 대하여
+설명 할것
+
+시간 분량 조절중 준비 후 재공지
+
+1. print("Hello World")
+2. 변수 선언
+
+from
+import
+
+2. Python Basic + Appium
+
+Sample 완료 
+시간 분량 조절중 준비 후 재공지
+
+3. Python Intermidiate
+2번의 기초를 토대로 한개의 스레드에서 다중 스레드로 다중 클라이언트를 서버에 연결하는 것으로 구현
+
+Sample 완료 
+시간 분량 조절중 준비 후 재공지
+
+4. Python Advanced
+정규식을 통한 원하는 정보 추출 및 활용
+Auto Install APK 2.0 토대
+
+Sample 완료 
+시간 분량 조절중 준비 후 재공지
+
+번외. Python Chatting Program (Basic)
+- Server의 이해
+- 상용 서버? Beta 서버? 길이 달라요
+- Server(Make ChattingRoom) : Client (Multi Users)
+
+Sample Python Code로 구현 해보는 중
