@@ -1,7 +1,7 @@
-a = "a is abc"
+a = "a is A!"
 
 print(a)
 
-a = r"sl\s\3\2\fdeifjlisejf"
+a = a + " Wow!!"
 
 print(a)
