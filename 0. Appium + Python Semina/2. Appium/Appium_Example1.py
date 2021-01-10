@@ -8,8 +8,7 @@ from selenium.common.exceptions import NoSuchElementException
 
 if __name__ == "__main__":
 
-    app = os.path.join(os.path.dirname(__file__), 'C:\\Users\\User\\Desktop\\업무\\Appium\\5. TestFiles', 'ApiDemos-debug.apk')
-    app = os.path.abspath(app)
+    app = os.path.realpath('./ApiDemos-debug.apk')
 
     # 핸드폰 정보, OS 정보, 패키지 이름을 적습니다.
     cap = {
@@ -47,4 +46,3 @@ if __name__ == "__main__":
     driver.quit()
     
     print('Test End')
-    pass
